@@ -4,11 +4,11 @@ Linux Task 01 — Linux Environment Setup & Essential Commands
 **Track:** Cyber Security / Ethical Hacking Internship
 **Task:** Linux Environment Setup & Essential Commands (Task 01)
 
-📌 Overview
+ Overview
 
 This repository documents the first task of my Cyber Security internship, focused on getting comfortable with the Linux environment. It covers installing and verifying a Linux setup, practicing essential terminal commands, managing directories and files, collecting system information, and researching why Linux is foundational to cybersecurity and ethical hacking work.
 
-🎯 Objectives
+ Objectives
 
 - Set up and verify a working Linux environment
 - Practice core navigation and terminal commands
@@ -17,7 +17,7 @@ This repository documents the first task of my Cyber Security internship, focuse
 - Collect and record key system information
 - Understand why Linux is the operating system of choice in cybersecurity
 
- 🗂️ Task Breakdown
+  Task Breakdown
 
 ### Part A — Linux Installation & Verification
 Verified the Linux setup with screenshots of the desktop environment, terminal window, and system information.
@@ -79,24 +79,24 @@ Researched and documented:
 4. **What is a Linux distribution?** — A Linux version bundled with software, package managers, and desktop environments (e.g., Ubuntu, Kali Linux, Parrot OS).
 5. **Why ethical hackers prefer Linux** — Open source, tool compatibility, system control, lightweight performance, scripting support, and strong networking/security features.
 
-📁 Repository Contents
+ Repository Contents
 
 | File | Description |
 |---|---|
 | `Linux_Task_01_Denny_Xalxo.docx` | Full task report with explanations, command outputs, and screenshots |
 
-## 🛠️ Tools Used
+ Tools Used
 
 - Linux Terminal
 - `tree` utility for directory visualization
 
- 📚 Key Learnings
+  Key Learnings
 
 - Built confidence navigating and managing a Linux filesystem entirely from the command line
 - Understood how directory structures and file operations form the basis of organized system administration
 - Gained context on why Linux underpins most cybersecurity and ethical hacking workflows
 
-👤 Author
+Author
 
 **Denny Xalxo**
 Cyber Security Intern
